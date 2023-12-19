@@ -1,6 +1,6 @@
 ---
 layout: page
 title: "Women's Depiction on the Silver Screen"
-cover-img: img/women-collage-png
+cover-img: images/women-collage-png
 ---
 
