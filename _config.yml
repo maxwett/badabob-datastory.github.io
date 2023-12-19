@@ -10,27 +10,27 @@
 ############################
 
 # Name of website
-title: Badabob Datastory
+title: The Badabob Datastory
 
 # Your name to show in the footer
-author: Anabel Salazar
+author: Julian Bär, Lucille Niederhauser, Victoria Rivet, Anabel Salazar, Maximilian Wettstein
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+#navbar-links:
+  #About Me: "aboutme"
+  #Resources:
+    #- Beautiful Jekyll: "https://beautifuljekyll.com"
+    #- Learn markdown: "https://www.markdowntutorial.com/"
+  #Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
 ################
 
-# Image to show in the navigation bar - works best with a square image
+# Image to show in the navigation bar (which is the little cat now)- works best with a square image
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/assets/img/avatar-icon.png"
 
@@ -49,14 +49,14 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
-social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
+#social-network-links:
+  #email: "someone@example.com"
+  #rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  #facebook: deanattali
+  github: 
+  #twitter: daattali
+  #patreon: DeanAttali
+  #youtube: "@daattali"
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
