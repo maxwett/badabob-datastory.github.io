@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Hollywood Unveiled: Rewriting Women’s Stories on the Silver Screen"
+title: "Women's Depiction on the Silver Screen"
 cover-img: images/women-collage.png
 ---
 
