@@ -1,9 +1,8 @@
 ---
 layout: page
-title: "Women's Depiction on the Silver Screen"
+title: "Hollywood Unveiled"
 cover-img: images/women-collage.png
 ---
-# Hollywood Unveiled
 ### Rewriting Women’s Stories on the Silver Screen 
 
 The perception and role of women in the US society has greatly evolved during the past century with women being granted a myriad of new rights. Simultaneously, their perception has also evolved, shifting away from mere housewives. Movies are often seen as a reflection of society, moving along with its ebbs and flows. But has this specific social movement bled into the entertainment industry? Has the depiction of women progressed alongside important milestones in the Feminist movement? Or on the contrary, do stereotypes around women still prevail in Hollywood?
@@ -18,7 +17,6 @@ Nevertheless, this result doesn't mean that each movie has approximately 30-40% 
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/movie_proportions.html"></iframe>
 
-
 This is in fact what we see with the plot above. Indeed over 85% of movies have less than 50% of actresses  in their cast. So while we may think from the plot before that women represent 40% of characters in movies, this plot demystifies this idea. Nonetheless, from 2000 onwards there is a growing number of movies with a majority of women actors in their cast. Breaking this down further by genre we can look more precisely at the individual trends. 
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/movie_proportions_percentages_actress_by_genre.html"></iframe>
@@ -32,7 +30,6 @@ On average, female actors are **significantly** younger than men at any point th
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/age_through_decade_per_genre.html"></iframe>
 
-### Age distribution per decade histogram interactive.
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/age_distribution_plot.html"></iframe>
 
 ## But what kind of representation?
