@@ -28,6 +28,9 @@ body {
 body > main {
   flex: 1;
 }
+page__content {
+  text-align: justify;
+}
 p {
   line-height: 1.5;
   margin: 1.875rem 0;
