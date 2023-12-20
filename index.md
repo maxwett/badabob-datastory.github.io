@@ -11,6 +11,8 @@ The perception and role of women in the US society has greatly evolved during th
 
 ## Problem Statement
 ### Gender ratio through time.
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="html_plots/gender_proportion_per_genre_per_decade.html"></iframe>
+
 ### Percentage of movies with very low female representation.
 ### Age through time.
 ### Age distribution per decade histogram interactive.
