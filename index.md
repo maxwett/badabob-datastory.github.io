@@ -11,16 +11,24 @@ The perception and role of women in the US society has greatly evolved during th
 
 ## Problem Statement
 ### Gender ratio through time.
+<iframe frameborder="yes" border="0" marginwidth="0" marginheight="0" width="550" height="550" src="html_plots/proportion_men_women.html"></iframe>
+
 <iframe frameborder="yes" border="0" marginwidth="0" marginheight="0" width="550" height="550" src="html_plots/gender_proportion_per_genre_per_decade_small.html"></iframe>
 
-
 ### Percentage of movies with very low female representation.
+<iframe frameborder="yes" border="0" marginwidth="0" marginheight="0" width="550" height="550" src="html_plots/movie_proportions.html"></iframe>
+
 ### Age through time.
+<iframe frameborder="yes" border="0" marginwidth="0" marginheight="0" width="550" height="550" src="html_plots/Average_age_actor.html"></iframe>
+
 ### Age distribution per decade histogram interactive.
+<iframe frameborder="yes" border="0" marginwidth="0" marginheight="0" width="550" height="550" src="html_plots/age_distribution_plot.html"></iframe>
 
 ## But what kind of representation?
 
 ### Main character ratio through time.
+<iframe frameborder="yes" border="0" marginwidth="0" marginheight="0" width="550" height="550" src="html_plots/main_char_ratio.html"></iframe>
+
 ### Clustering to classify stereotypical vs non-stereotypical movies.
 ### Ratio of stereotypical vs non-stereotypical movies through time.
 ### Which genres display a strong difference in prevalence in stereotypical vs non-stereotypical movies.
