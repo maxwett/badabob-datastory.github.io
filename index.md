@@ -13,6 +13,12 @@ The perception and role of women in the US society has greatly evolved during th
 ### Gender ratio through time.
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="html_plots/gender_proportion_per_genre_per_decade.html"></iframe>
 
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" src="html_plots/gender_proportion_per_genre_per_decade.html"></iframe>
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="80%" height="550" src="html_plots/gender_proportion_per_genre_per_decade.html"></iframe>
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="80%" src="html_plots/gender_proportion_per_genre_per_decade.html"></iframe>
+
 <div class="iframe-container">
     <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="html_plots/gender_proportion_per_genre_per_decade.html"></iframe>
 </div>
