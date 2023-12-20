@@ -42,7 +42,7 @@ On average, female actors are **significantly** younger than men at any point th
 </object>
 
 
-Now all of this does not tell us in any way **how** women are portrayed in these movies. It could be that women's representation is increasing but what kind of representation ? Having women lead is much more meaningful than adding only female secondary characters. 
+Now all of this does not tell us in any way **how** women are portrayed in these movies. We've seen that women's representation is increasing but what kind of representation ? Having a women lead is much more meaningful than adding only female secondary characters. It is therefore crucial to be able to differentiate the two. 
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/main_char_ratio.html"></iframe>
 
