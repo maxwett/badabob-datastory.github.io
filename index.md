@@ -13,9 +13,16 @@ As a first step into this it is logical to wonder about the representation of wo
 <object>
   <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/proportion_men_women.html"></iframe>
 </object>
-[Figure 1](html_plots/proportion_men_women.html)
 
-yoooooooo 
+<object>
+  .center {
+    text-align: center;
+    border: 3px solid green;
+  }
+  [Figure 1](html_plots/proportion_men_women.html)
+</object>
+
+yoooooooo
 
 <div class="withSidenote" markdown="1">
 
@@ -66,4 +73,3 @@ Now all of this does not tell us in any way **how** women are portrayed in these
 ### Vocabulary associated with female characters through time.
 
 [^1]: [The Hollywood Reporter, *Study Finds Women Represent a Third of Onscreen Population in Film*, 2022](https://www.hollywoodreporter.com/movies/movie-news/women-onscreen-representation-film-study-1235111493/)
-<iframe src="test_plot.html" width="100%" height="400px"></iframe>
