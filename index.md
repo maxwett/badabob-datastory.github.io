@@ -38,11 +38,19 @@ Nevertheless, this result doesn't mean that each movie has approximately 30-40% 
   <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/movie_proportions.html"></iframe>
 </object>
 
+<div class="left">
+  <a href="html_plots/movie_proportions.html">Figure 3</a>
+</div>
+
 This is in fact what we see with the plot above. Indeed over 85% of movies have less than 50% of actresses  in their cast. So while we may think from the plot before that women represent 40% of characters in movies, this plot demystifies this idea. Nonetheless, from 2000 onwards there is a growing number of movies with a majority of women actors in their cast. Breaking this down further by genre we can look more precisely at the individual trends. 
 
 <object>
   <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/movie_proportions_percentages_actress_by_genre.html"></iframe>
 </object>
+
+<div class="left">
+  <a href="html_plots/movie_proportions_percentages_actress_by_genre.html">Figure 4</a>
+</div>
 
 Interestingly, three genres stick out as much worse than the average: Action, Western and Drama. In those genres, over 50% of movies that have less than 25% of women in them. On the contrary, three genres seem to do slightly better than the average namely Musical, Adventure and Horror. This shows that all genres aren’t equal when it comes to women representation. 
 
@@ -55,19 +63,32 @@ There is in fact not only a gap in representation but also in the age of actors 
   <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/Average_age_actor.html"></iframe>
 </object>
 
+<div class="left">
+  <a href="html_plots/Average_age_actor.html">Figure 5</a>
+</div>
+
 On average, female actors are **significantly** younger than men at any point throughout the last century. This clearly emphasises the age gap in the industry. Moreover, the average age of actors increases over time regardless of gender, potentially reflecting the long career span of actors. As a matter of fact, an actor starting in the 60s might be playing well into the 80s. But throughout this maturing of the industry, the age gap does not get smaller. This next animation we clearly see the exact breakdown of actors and actresses throughout the decades. TO ADD: more analysis here (Distributions are skewed towards the left and heavy tailed)
 
 <object>
   <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/age_distribution_plot.html"></iframe>
 </object>
 
+<div class="left">
+  <a href="html_plots/age_distribution_plot.html">Figure 6</a>
+</div>
 
 Now all of this does not tell us in any way **how** women are portrayed in these movies. We've seen that women's representation is increasing but what kind of representation ? 
 
 ## Is women representation shifting towards major roles ? 
 Having a women lead is much more meaningful than adding only female secondary characters. It is therefore crucial to be able to differentiate the two. 
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/main_char_ratio.html"></iframe>
+<object>
+  <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/main_char_ratio.html"></iframe>
+</object>
+
+<div class="left">
+  <a href="html_plots/main_char_ratio.html">Figure 7</a>
+</div>
 
 It is interesting to point out the initial decrease that occurred from the 1910s until the 40s.  The lack of data in the earliest decades could bias the original two decades (10s and 20s), only including a few movies where women portrayed main roles. The confidence interval is indeed the largest sound these decades. Furthermore, it could be tempting to say that we start to see an increase starting in the 40s. However this cannot be conclusively said due to the large confidence intervals up until the 1990s.  There has been an Increase in recent decades, but we cannot be sure exactly when this trend started. Nonetheless this is a further insight indicating that women are being offered an increasing amount of leading roles. What events may have prompted this around the 80s?
 
@@ -77,8 +98,13 @@ It is interesting to point out the initial decrease that occurred from the 1910s
 
 We thus see women accessing political positions that were so far only occupied by men. Moreover, this decade saw the first American into space. Seeing women accessing jobs that previously seemed out of reach may have impacted society. Therefore, as Hollywood picked up on these cues and wanting to reflect the advancement of mentalities, it portrayed more women in main character roles. In 2022, our analysis suggests that 41.1% of main characters are women. According to the San Diego State University Center for the Study of Women in Television and Film, in 2022, females comprised 44% (43.8%) of major characters. [^3] (POTENTIALLY ADD TEXT ABOUT SUBPLOTS)
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/proportion_main_characters_per_genre.html"></iframe>
+<object>
+  <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/proportion_main_characters_per_genre.html"></iframe>
+</object>
 
+<div class="left">
+  <a href="html_plots/proportion_main_characters_per_genre.html">Figure 8</a>
+</div>
 
 ***If you’ve made it so far, that’s great! What have we learned?***
 
@@ -97,7 +123,7 @@ What do you think of when you think of a stereotypical portrayal of a woman ? Do
 
 <figure class="sidenote">
     <img src="images/cluster.png">
-    <figcaption>Figure 3. Clustering of Stereotypical and non stereotypical movies.</figcaption>
+    <figcaption>Figure 9. Clustering of Stereotypical and non stereotypical movies.</figcaption>
 </figure>
 </div>
 
@@ -113,7 +139,13 @@ Cluster 0 has a higher proportion of women in the cast, also as main character a
 
 What has been the evolution of the release of these 2 types of movies you may ask! 
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/fraction_stereo_movies_per_decades.html"></iframe>
+<object>
+  <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/fraction_stereo_movies_per_decades.html"></iframe>
+</object>
+
+<div class="left">
+  <a href="html_plots/fraction_stereo_movies_per_decades.html">Figure 10</a>
+</div>
 
 From 1920 up to 2020, there seem to always have been a bigger percentage of movies produced that had a stereotypical depiction of women. In the 70s the proportion of stereotypical movies was almost 50% and is the highest in the years analysed. Of course, due to the large confidence intervals that result should be taken with some precaution. Interestingly, the proportion of non-stereotypical movies was relatively stable throughout the decades until 2000. From 2000 to 2020 we see a strong increase of the proportion of movies with a non-stereotypical depiction of women to reach approximately the same percentage as stereotypical movies. (YAY!) Going back to our beloved timeline, multiple events where women ascended to a position of power could have prompted this increase, such as the first female attorney, the first female secretary of state or the first female speaker of the house.
 
@@ -129,7 +161,13 @@ genres tended to do better in terms of women proportion in their cast. Whereas
   
 tend to do worse. Now how does that compare to this clustering ? When  looking at the difference of ratio between the not stereotypical and the stereotypical movies, we obtain the next plot. If the difference is negative it means that there is a higher proportion of this movie genre in the stereotypical movies. Inversely, if the difference is positive, it means that there is a higher proportion of this movie genre in the non-stereotypical movies. We thresholded the graph to only see movies that had a difference bigger than 0.01. We assumed that a smaller difference was too small to assume a real difference between the clusters.
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/clustering_genre_barplot.html"></iframe>
+<object>
+  <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/clustering_genre_barplot.html"></iframe>
+</object>
+
+<div class="left">
+  <a href="html_plots/clustering_genre_barplot.html">Figure 11</a>
+</div>
 
 Action and Western still fall into the category of stereotypical as expected by the previous analysis.  Similarly, but on the other side of the spectrum, Horror and Musical are in the  non-stereotypical cluster. Surprisingly, Drama and Adventure are not on the side we would expect. Indeed, we previously saw that Drama had low women representation, but is actually overrepresented into the non-stereotypical cluster, and Adventure has a similar trend but in the opposite direction. 
 
