@@ -51,7 +51,7 @@ Interestingly, three genres stick out as much worse than the average: Action, We
 ### Is the age gap even real? 
 > Male actors see their careers peak at the age of 46, female actors reach their professional pinnacles at age 30 <br />_TIME magazine 2015[^2]_
 
-According to this, there is therefore not only a gap in representation but also in the age of actors versus actresses. This can in fact be seen very well in this plot
+There is in fact not only a gap in representation but also in the age of actors versus actresses. Often times it seems that the actresses are significantly younger than their male counterparts. It is not only an impression, this can in fact be seen very well in this plot
 
 <object>
   <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/Average_age_actor.html"></iframe>
