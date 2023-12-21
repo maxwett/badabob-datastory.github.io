@@ -14,13 +14,9 @@ As a first step into this it is logical to wonder about the representation of wo
   <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/proportion_men_women.html"></iframe>
 </object>
 
-<object>
-  .center {
-    text-align: center;
-    border: 3px solid green;
-  }
-  [Figure 1](html_plots/proportion_men_women.html)
-</object>
+<div class="center">
+  <a href="html_plots/proportion_men_women.html">Figure 1</a>
+</div>
 
 
 <div class="withSidenote" markdown="1">
