@@ -8,7 +8,7 @@ The perception and role of women in the US society has greatly evolved during th
 This data story will explore the <a href="http://www.cs.cmu.edu/~ark/personas/"><em>CMU Movie Summary Corpus</em></a> to explore how women are portrayed in Hollywood. Not only by mere representation but whether women are now being put at the forefront of storylines. It will also dive deeper into the characteristics of stereotypical movies.
 
 ## Over the decades
-As a first step into this it is logical to wonder about the representation of women through time. The proportion of actresses over time gives us a first insight into how well the industry is representing society.  According to expert Dr. Martha Lauzen, “Despite the major disruptions in the film business over the last couple of years, onscreen gender ratios have remained relatively stable.”[^1] But what if we compare to 100 years ago, is the picture still as bleak?
+The proportion of actresses over time gives us a first insight into how well the industry is representing women.  According to expert Dr. Martha Lauzen, “Despite the major disruptions in the film business over the last couple of years, onscreen gender ratios have remained relatively stable.”[^1] But what if we compare to 100 years ago, is the picture still as bleak?
 
 <object>
   <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/proportion_men_women.html"></iframe>
@@ -21,8 +21,7 @@ As a first step into this it is logical to wonder about the representation of wo
 
 <div class="withSidenote" markdown="1">
 
-As we can see the ratios have remained fairly constant over time,  hitting a proportion of women between 30% and 40%, close to a 2 to 1 ratio. However we can see a small but interesting trend starting in the 70s, with the proportion of women slowly but steadily increasing. If the industry keeps evolving at this rate, by fitting a regression through this time period, we could naively say that parity would be reached in 2064. This of course only reflects a thought experiment that helps us understand the overall trend. But can this trend be explained by any significant event in history ? By using our [timeline](https://www.history.com/topics/womens-history/womens-history-us-timeline), two major events for women's rights in the US in fact occurred in the 60s: the Equal Pay Act and the Civil Rights Act. The Equal Pay Act prohibits a difference of salary based on sex while the Civil Rights Act prohibits (amongst others) employment discrimination based on sex. These two events were a huge step towards gender equality and they might have prompted a change in mentality, resulting in the proportion of women in movies increasing.
-
+Figure 1 shows us that the ratio of women in Hollywood has remained fairly constant over time, staying close to 30% until the 2010s. The 40% mark has been broken for the first time during this decade, getting actresses closer pairing. This increasing trend seems to have started in the 70s, and allows us to fit a regression line to the ratios from the 70s to today. If the industry keeps evolving at this rate, we could naively say that parity would be reached in 2064. If 70s really were the start of this increase, can it be explained by any significant event in history ? According to our [timeline](https://www.history.com/topics/womens-history/womens-history-us-timeline), the 60s saw the occurence of two major events for women's rights in the US: the Equal Pay Act and the Civil Rights Act. The Equal Pay Act prohibits a difference of salary based on sex while the Civil Rights Act prohibits (amongst others) employment discrimination based on sex. These two events were a huge step towards gender equality and they might have prompted a change in mentality, resulting in the proportion of women in movies increasing.
 
 <figure class="sidenote">
     <img src="images/Equal_Pay_Act.jpg">
@@ -136,6 +135,9 @@ Cluster 0 has a higher proportion of women in the cast, also as main character a
 | 1             | 0.321               | 0                                   | -8.079                  |
 | 2             | 0.398               | 0.461                               | -7.197                  |
 
+<div class="left">
+  Table 1
+</div>
 
 What has been the evolution of the release of these 2 types of movies you may ask! 
 
