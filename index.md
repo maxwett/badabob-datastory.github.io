@@ -12,9 +12,19 @@ As a first step into this it is logical to wonder about the representation of wo
 
 <object>
   <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/proportion_men_women.html"></iframe>
+  [Figure 1](html_plots/proportion_men_women.html)
 </object>
 
+
+<div class="withSidenote" markdown="1">
+
 As we can see the ratios have remained fairly constant over time,  hitting a proportion of women between 30% and 40%, close to a 2 to 1 ratio. However we can see a small but interesting trend starting in the 70s, with the proportion of women slowly but steadily increasing. If the industry keeps evolving at this rate, by fitting a regression through this time period, we could naively say that parity would be reached in 2064. This of course only reflects a thought experiment that helps us understand the overall trend. But can this trend be explained by any significant event in history ? In fact two major events for women's rights in the US occurred in the 60s: the Equal Pay Act and the Civil Rights Act. The Equal Pay Act prohibits a difference of salary based on sex while the Civil Rights Act prohibits (amongst others) employment discrimination based on sex. These two events were a huge step towards gender equality and they might have prompted a change in mentality, resulting in the proportion of women in movies increasing.
+
+<figure class="sidenote">
+    <img src="images/Equal_Pay_Act.jpg">
+    <figcaption><a href="https://en.wikipedia.org/wiki/Equal_Pay_Act_of_1963"><em>Figure 2.</em></a> Signing of the Equal Pay Act of 1963.</figcaption>
+</figure>
+</div>
 
 Nevertheless, this result doesn't mean that each movie has approximately 30-40% of women in their actors cast. This result might be biased by movies that have an extremely low/high proportion of women versus movies that have a balanced actors cast.
 
