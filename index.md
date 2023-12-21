@@ -31,7 +31,7 @@ Figure 1 shows us that the ratio of women in Hollywood has remained fairly const
 
 ### Breakdown of women's representation in movies
 
-Nevertheless, this result doesn't mean that each movie has approximately 30-40% of women in their actors cast. This result might be biased by movies that have an extremely low/high proportion of women versus movies that have a balanced actors cast.
+Nevertheless, this result doesn't mean that each movie has 30-40% of women in their cast. This result might be biased by movies that have an extremely low or high proportion of women.
 
 <object>
   <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/movie_proportions.html"></iframe>
@@ -41,7 +41,7 @@ Nevertheless, this result doesn't mean that each movie has approximately 30-40% 
   <a href="html_plots/movie_proportions.html">Figure 3</a>
 </div>
 
-This is in fact what we see with the plot above. Indeed over 85% of movies have less than 50% of actresses  in their cast. So while we may think from the plot before that women represent 40% of characters in movies, this plot demystifies this idea. Nonetheless, from 2000 onwards there is a growing number of movies with a majority of women actors in their cast. Breaking this down further by genre we can look more precisely at the individual trends. 
+This is in fact what we see with the plot above. In over 40% of movies, actresses make up less than 25% of the cast, meaning that they will spend much of their career outnumbered 3-1 by their male counterparts. Further, 85% of movies have less than 50% of actresses, showing the rarity of female majority casts. So while we may think from Figure 1 that women represent 40% of characters in movies, this plot may be a better representation of what actresses are experiencing during their work. Nonetheless, from 2000 onwards there is a growing number of movies with a majority of women actors in their cast. Breaking this down further by genre we can look more precisely at the individual trends.
 
 <object>
   <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/movie_proportions_percentages_actress_by_genre.html"></iframe>
