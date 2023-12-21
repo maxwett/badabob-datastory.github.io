@@ -101,6 +101,7 @@ What do you think of when you think of a stereotypical portrayal of a woman ? Do
 
 Cluster 0 has a higher proportion of women in the cast, also as main character and a smaller difference of mean ages than the other clusters. Cluster 1 is the most stereotypical, with no women as main characters, a low proportion of actresses, and the highest mean age difference. 
 
+
 | cluster index | proportion of women | proportion fo women main characters | difference in mean ages |
 |---------------|---------------------|-------------------------------------|-------------------------|
 | 0             | 0.531               | 0.978                               | -6.755                  |
