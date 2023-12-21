@@ -118,10 +118,12 @@ Now that we have a way of categorising these movies and we’ve seen the release
 - Musical
 - Adventure
 - Horror
+  
 tended to do better in terms of women proportion in their cast. Whereas 
 - Action 
 - Western
-- Drama 
+- Drama
+  
 tend to do worse. Now how does that compare to this clustering ? When  looking at the difference of ratio between the not stereotypical and the stereotypical movies, we obtain the next plot. If the difference is negative it means that there is a higher proportion of this movie genre in the stereotypical movies. Inversely, if the difference is positive, it means that there is a higher proportion of this movie genre in the non-stereotypical movies. We thresholded the graph to only see movies that had a difference bigger than 0.01. We assumed that a smaller difference was too small to assume a real difference between the clusters.
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/clustering_genre_barplot.html"></iframe>
@@ -130,13 +132,6 @@ Action and Western still fall into the category of stereotypical as expected by 
 
 There are of course limitations with this analysis. Most prevalently, we see that romantic comedies appear in movies that have a non-stereotypical representation of women. It is however well-known that in general in romantic comedies women are solely love interests and are thus portrayed stereotypically. This highlights the need to not only look at the proportion of actresses, the proportion of women character and the age difference but consider other factors. More precisely **the vocabulary linked** to female and male actors in general. This is a perfect segue into our final analysis: *The Vocabulary Analysis*
 
-
-
-
-
-### Ratio of stereotypical vs non-stereotypical movies through time.
-### Which genres display a strong difference in prevalence in stereotypical vs non-stereotypical movies.
-### Vocabulary associated with female characters through time.
 
 # References 
 [^1]: [The Hollywood Reporter, *Study Finds Women Represent a Third of Onscreen Population in Film*, 2022](https://www.hollywoodreporter.com/movies/movie-news/women-onscreen-representation-film-study-1235111493/)
