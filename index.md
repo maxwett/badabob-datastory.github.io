@@ -82,7 +82,7 @@ We thus see women accessing political positions that were so far only occupied b
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/proportion_main_characters_per_genre.html"></iframe>
 
 
-If you’ve made it so far, that’s great! What have we learned?  
+***If you’ve made it so far, that’s great! What have we learned?***
 
 &#x2713; The overall proportion of women has increased in the last 50 years to reach ~40% of actresses
 
