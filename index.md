@@ -71,6 +71,14 @@ Having a women lead is much more meaningful than adding only female secondary ch
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/main_char_ratio.html"></iframe>
 
+It is interesting to point out the initial decrease that occurred from the 1910s until the 40s.  The lack of data in the earliest decades could bias the original two decades (10s and 20s), only including a few movies where women portrayed main roles. The confidence interval is indeed the largest sound these decades. Furthermore, it could be tempting to say that we start to see an increase starting in the 40s. However this cannot be conclusively said due to the large confidence intervals up until the 1990s.  There has been an Increase in recent decades, but we cannot be sure exactly when this trend started. Nonetheless this is a further insight indicating that women are being offered an increasing amount of leading roles. What events may have prompted this around the 80s?
+
+- 1981 :  Sandra Day O’Connor is sworn in by President Ronald Reagan as the first woman to serve in the U.S. Supreme Court. She retired in 2006, after serving for 24 years.
+- 1983 :  Flying on the Space Shuttle Challenger, Sally Ride becomes the first American woman in space.
+- 1984 :  Democratic presidential nominee Walter Mondale names U.S. Rep. Geraldine Ferraro (N.Y.) as his running mate, making her the first woman vice president nominee by a major party.
+
+We thus see women accessing political positions that were so far only occupied by men. Moreover, this decade saw the first American into space. Seeing women accessing jobs that previously seemed out of reach may have impacted society. Therefore, as Hollywood picked up on these cues and wanting to reflect the advancement of mentalities, it portrayed more women in main character roles. In 2022, our analysis suggests that 41.1% of main characters are women. According to the San Diego State University Center for the Study of Women in Television and Film, in 2022, females comprised 44% (43.8%) of major characters. [^3]
+
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/proportion_main_characters_per_genre.html"></iframe>
 
 
@@ -81,4 +89,5 @@ Having a women lead is much more meaningful than adding only female secondary ch
 
 # References 
 [^1]: [The Hollywood Reporter, *Study Finds Women Represent a Third of Onscreen Population in Film*, 2022](https://www.hollywoodreporter.com/movies/movie-news/women-onscreen-representation-film-study-1235111493/)
-[^2]: [TIMES magasine, *This Chart Shows Hollywood’s Glaring Gender Gap*, 2015](https://time.com/4062700/hollywood-gender-gap/)
+[^2]: [TIMES magazine, *This Chart Shows Hollywood’s Glaring Gender Gap*, 2015](https://time.com/4062700/hollywood-gender-gap/)
+[^3]: [San Diego State University center for STudy of Women in Television and Film, *Streaming Women: Representation and Employment in Original U.S. Films Released by Streaming Services in 2022*, 2023](https://womenintvfilm.sdsu.edu/research/#:~:text=Females%20comprised%2044%25%20(43.8%25),producers%2C%20editors%2C%20and%20cinematographers.)
