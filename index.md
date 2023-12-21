@@ -72,4 +72,5 @@ Now all of this does not tell us in any way **how** women are portrayed in these
 ### Which genres display a strong difference in prevalence in stereotypical vs non-stereotypical movies.
 ### Vocabulary associated with female characters through time.
 
+# References 
 [^1]: [The Hollywood Reporter, *Study Finds Women Represent a Third of Onscreen Population in Film*, 2022](https://www.hollywoodreporter.com/movies/movie-news/women-onscreen-representation-film-study-1235111493/)
