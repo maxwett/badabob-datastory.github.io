@@ -56,22 +56,5 @@ Now all of this does not tell us in any way **how** women are portrayed in these
 
 ### [TEMPORARY]Testing dropdown menus
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dropdown Menu Example</title>
-    <script src="toggle.js"></script>
-</head>
-<body>
-
-<label for="plotSelector">Select a Plot:</label>
-<select id="plotSelector" onchange="loadPlot()">
-    <option value="plot1.html">Plot 1</option>
-    <option value="plot2.html">Plot 2</option>
-    <!-- Add more options as needed -->
-</select>
-
-<div id="plot-container"></div>
-
-</body>
+<iframe src="test_plot.html" width="100%" height="400px"></iframe>
 
