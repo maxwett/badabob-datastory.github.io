@@ -56,8 +56,6 @@ Now all of this does not tell us in any way **how** women are portrayed in these
 
 ### [TEMPORARY]Testing dropdown menus
 
-<!DOCTYPE html>
-<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -76,5 +74,4 @@ Now all of this does not tell us in any way **how** women are portrayed in these
 <div id="plot-container"></div>
 
 </body>
-</html>
 
