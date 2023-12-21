@@ -53,3 +53,28 @@ Now all of this does not tell us in any way **how** women are portrayed in these
 ### Ratio of stereotypical vs non-stereotypical movies through time.
 ### Which genres display a strong difference in prevalence in stereotypical vs non-stereotypical movies.
 ### Vocabulary associated with female characters through time.
+
+### [TEMPORARY]Testing dropdown menus
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dropdown Menu Example</title>
+    <script src="toggle.js"></script>
+</head>
+<body>
+
+<label for="plotSelector">Select a Plot:</label>
+<select id="plotSelector" onchange="loadPlot()">
+    <option value="plot1.html">Plot 1</option>
+    <option value="plot2.html">Plot 2</option>
+    <!-- Add more options as needed -->
+</select>
+
+<div id="plot-container"></div>
+
+</body>
+</html>
+
