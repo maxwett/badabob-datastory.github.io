@@ -7,14 +7,15 @@ cover-img: images/women-collage.png
 
 The perception and role of women in the US society has greatly evolved during the past century with women being granted a myriad of new rights. Simultaneously, their perception has also evolved, shifting away from mere housewives. Movies are often seen as a reflection of society, moving along with its ebbs and flows. But has this specific social movement bled into the entertainment industry? Has the depiction of women progressed alongside important milestones in the Feminist movement? Or on the contrary, do stereotypes around women still prevail in Hollywood?
 
-This data story will explore the CMU Movie Summary Corpus (add hyperlink) to explore how women are portrayed in Hollywood. Not only by mere representation but whether women are now being put at the forefront of storylines. It will also dive deeper into the characteristics of stereotypical movies.
-As a first step into this it is logical to wonder about the representation of women through time. The proportion of actresses over time gives us a first insight into how well the industry is representing society.  According to Martha Lauzen from the San Diego State’s Center for the Study of Women in Television and Film, “Despite the major disruptions in the film business over the last couple of years, onscreen gender ratios have remained relatively stable.”(add ref) But what about going back 100 years, has society progressed at all ?
+This data story will explore the <a href="http://www.cs.cmu.edu/~ark/personas/"><em>CMU Movie Summary Corpus</em></a> to explore how women are portrayed in Hollywood. Not only by mere representation but whether women are now being put at the forefront of storylines. It will also dive deeper into the characteristics of stereotypical movies.
+As a first step into this it is logical to wonder about the representation of women through time. The proportion of actresses over time gives us a first insight into how well the industry is representing society.  According to Martha Lauzen from the San Diego State’s Center for the Study of Women in Television and Film, “Despite the major disruptions in the film business over the last couple of years, onscreen gender ratios have remained relatively stable.”[^1] But what about going back 100 years, has society progressed at all ?
 
 <object>
   <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/proportion_men_women.html"></iframe>
-  [Figure 1](html_plots/proportion_men_women.html)
 </object>
+[Figure 1](html_plots/proportion_men_women.html)
 
+yoooooooo 
 
 <div class="withSidenote" markdown="1">
 
@@ -64,40 +65,5 @@ Now all of this does not tell us in any way **how** women are portrayed in these
 ### Which genres display a strong difference in prevalence in stereotypical vs non-stereotypical movies.
 ### Vocabulary associated with female characters through time.
 
-### [TEMPORARY]Testing dropdown menus
-
-# Dropdown Menu Example
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dropdown Menu Example</title>
-</head>
-<body>
-
-<label for="plotSelector">Select a Plot:</label>
-<select id="plotSelector" onchange="loadPlot()">
-    <option value="plot1.html">Plot 1</option>
-    <option value="plot2.html">Plot 2</option>
-    <!-- Add more options as needed -->
-</select>
-
-<iframe id="plotFrame" width="100%" height="400px" frameborder="0"></iframe>
-
-<script>
-    function loadPlot() {
-        var plotSelector = document.getElementById('plotSelector');
-        var plotFrame = document.getElementById('plotFrame');
-
-        var selectedPlot = plotSelector.value;
-        plotFrame.src = selectedPlot;
-    }
-</script>
-
-</body>
-</html>
-
-
+[^1]: [The Hollywood Reporter, *Study Finds Women Represent a Third of Onscreen Population in Film*, 2022](https://www.hollywoodreporter.com/movies/movie-news/women-onscreen-representation-film-study-1235111493/)
+<iframe src="test_plot.html" width="100%" height="400px"></iframe>
