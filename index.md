@@ -83,10 +83,10 @@ We thus see women accessing political positions that were so far only occupied b
 
 
 If you’ve made it so far, that’s great! What have we learned?
-[x] The overall proportion of women has increased in the last 50 years to reach ~40% of actresses
-[x] That does **not** mean that all movies have 40% of women! Some genres have more women than others like Musical or Adventure movies, whereas Westerns or Drama are trailing behind. 
-[x] The age gap in Hollywood is still a thing and does not seem to be closing down, though the mean age of both men and women in the industry is increasing. 
-[x] The kind of representation matters, and we do see an increase in women main character roles. 
+- [x] The overall proportion of women has increased in the last 50 years to reach ~40% of actresses
+- [x] That does **not** mean that all movies have 40% of women! Some genres have more women than others like Musical or Adventure movies, whereas Westerns or Drama are trailing behind. 
+- [x] The age gap in Hollywood is still a thing and does not seem to be closing down, though the mean age of both men and women in the industry is increasing. 
+- [x] The kind of representation matters, and we do see an increase in women main character roles. 
 
 ## Clustering of movies
 
@@ -119,7 +119,7 @@ Now that we have a way of categorising these movies and we’ve seen the release
 - Adventure
 - Horror
   
-tended to do better in terms of women proportion in their cast. Whereas 
+genres tended to do better in terms of women proportion in their cast. Whereas 
 - Action 
 - Western
 - Drama
