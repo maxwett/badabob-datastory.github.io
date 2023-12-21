@@ -22,7 +22,6 @@ As a first step into this it is logical to wonder about the representation of wo
   [Figure 1](html_plots/proportion_men_women.html)
 </object>
 
-yoooooooo
 
 <div class="withSidenote" markdown="1">
 
