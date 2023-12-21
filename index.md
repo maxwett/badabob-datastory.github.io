@@ -94,7 +94,7 @@ If you’ve made it so far, that’s great! What have we learned?
 What do you think of when you think of a stereotypical portrayal of a woman ? Does a young pretty actress that does not contribute to the plot pop into your mind? Being able to classify a movie into stereotypical or non-stereotypical is very valuable in this case. By clustering movies based on the proportion of women, the proportion of women main characters and the difference in the mean ages of men and women in the cast, we were able to cluster all movies into 3 categories. A cluster of stereotypical movies (cluster 1), a cluster of non-stereotypical movies (cluster 0), and finally a cluster that falls somewhere in between, not extreme enough to fall into either category (cluster 2).  
 
 <figure class="sidenote">
-    <img src="images/cluster.jpg">
+    <img src="images/cluster.png">
     <figcaption>Figure 3. Clustering of Stereotypical and non stereotypical movies.</figcaption>
 </figure>
 </div>
