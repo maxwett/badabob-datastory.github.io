@@ -83,8 +83,8 @@ We thus see women accessing political positions that were so far only occupied b
 
 
 If you’ve made it so far, that’s great! What have we learned?  
-<span style = "color✅"> The overall proportion of women has increased in the last 50 years to reach ~40% of actresses
-- [x] That does **not** mean that all movies have 40% of women! Some genres have more women than others like Musical or Adventure movies, whereas Westerns or Drama are trailing behind. 
+<span style = "color✅"></span> The overall proportion of women has increased in the last 50 years to reach ~40% of actresses
+<span style = "color:white"> - </span> [x] That does **not** mean that all movies have 40% of women! Some genres have more women than others like Musical or Adventure movies, whereas Westerns or Drama are trailing behind. 
 - [x] The age gap in Hollywood is still a thing and does not seem to be closing down, though the mean age of both men and women in the industry is increasing. 
 - [x] The kind of representation matters, and we do see an increase in women main character roles. 
 
