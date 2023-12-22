@@ -176,27 +176,23 @@ Action and Western still fall into the category of stereotypical as expected by 
 There are of course limitations with this analysis. Most prevalently, we see that romantic comedies appear in movies that have a non-stereotypical representation of women. It is however well-known that in general in romantic comedies women are solely love interests and are thus portrayed stereotypically. This highlights the need to not only look at the proportion of actresses, the proportion of women character and the age difference but consider other factors. More precisely **the vocabulary linked** to female and male actors in general. This is a perfect segue into our final analysis: *The Vocabulary Analysis*
 
 # TEMP
-ANABEL YAAAAAAAAAAAAAAAAAAAA
+ANABEL YEEEEEEEEEEEEEEEEEEEEEE
 
 <label for="plotSelector">Select a Plot:</label>
 <select id="plotSelector" onchange="loadPlot()">
-    <option value="plot1.html" id="defaultOption">Plot 1</option>
+    <option value="plot1.html">Plot 1</option>
     <option value="plot2.html">Plot 2</option>
     <option value="plot3.html">Plot 3</option>
     <!-- Add more options as needed -->
 </select>
 
-<script>
-    // Set the default selected option on page load
-    document.getElementById("defaultOption").selected = true;
-
-    // Function to load the selected plot (replace this with your actual function)
-    function loadPlot() {
-        var selectedValue = document.getElementById("plotSelector").value;
-        console.log("Selected plot:", selectedValue);
-        // Add your code to load the selected plot here
+<!-- Add this style tag to hide the default browser-generated option -->
+<style>
+    #plotSelector option:checked {
+        display: none;
     }
-</script>
+</style>
+
 
 
 <iframe id="plotFrame" width="100%" height="400px" frameborder="0"></iframe>
