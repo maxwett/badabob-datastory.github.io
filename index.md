@@ -179,7 +179,7 @@ There are of course limitations with this analysis. Most prevalently, we see tha
 
 <label for="plotSelector">Select a Plot:</label>
 <select id="plotSelector" onchange="loadPlot()">
-    <option value="plot1.html">Plot 1</option>
+    <option value="plot1.html" selected>Plot 1</option>
     <option value="plot2.html">Plot 2</option>
     <option value="plot3.html">Plot 3</option>
     <!-- Add more options as needed -->
